@@ -1,0 +1,6 @@
+{
+  "name": "BizResearch AI - เครื่องมือวิเคราะห์และวิจัยธุรกิจภาษาไทย",
+  "description": "ระบบวิเคราะห์ วิจัยตลาด และจัดทำรายงานกลยุทธ์ธุรกิจภาษาไทยอัจฉริยะ พร้อม SWOT, PESTEL, Market Entry และชาร์ตข้อมูลเชิงลึก",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
